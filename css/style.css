@@ -18,7 +18,7 @@ nav li{
 }
 
 a.current{
-    color: red;
+    color: black;
     text-decoration: overline;
 }
 .frogs{
